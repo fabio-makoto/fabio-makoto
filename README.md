@@ -1,6 +1,6 @@
 ### Hi! I am Fabio Makoto 🖐️
 
-## Sobre mim
+## About me
 Currently, I am graduating in Systems Analysis and Development at Uninter. Since I was young, I have always been interested in this area. My wish has always been to create a game. However, currently, I am focused on the back-end development of web applications and I always seek to improve my skills with a lot of study and practice.
 
 ## GitHub Stats 📈
