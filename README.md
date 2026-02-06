@@ -4,7 +4,7 @@
 Currently, I am graduating in Systems Analysis and Development at Uninter. Since I was young, I have always been interested in this area. My wish has always been to create a game. However, currently, I am focused on the back-end development of web applications and I always seek to improve my skills with a lot of study and practice.
 
 ## GitHub Stats 📈
-![Fabio GitHub stats](https://github-readme-stats-5yc65v6d0-fabio-makotos-projects.vercel.app)
+![Fabio GitHub stats](https://github-readme-stats-jy5uc6ukz-fabio-makotos-projects.vercel.app)
 
 ## Technologies 💻
 <div style="display: inline_block">
